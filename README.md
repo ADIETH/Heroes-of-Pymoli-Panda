@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # PANDA_HOMEWORK
 # Unit 4 | Assignment - Pandas, Pandas, Pandas
 
@@ -82,3 +83,6 @@ As final considerations:
 * You must submit a link to your Jupyter Notebook with the viewable Data Frames.
 * You must include a written description of three observable trends based on the data.
 * See [Example Solution](HeroesOfPymoli/HeroesOfPymoli_starter.ipynb) for a reference on expected format.
+=======
+
+>>>>>>> 0eecfe49237cc67265f7480ff97fa59d960382d1
