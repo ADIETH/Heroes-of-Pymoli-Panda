@@ -1,6 +1,6 @@
-<<<<<<< HEAD
+<<<<<<<
 # PANDA_HOMEWORK
-# Unit 4 | Assignment - Pandas, Pandas, Pandas
+#
 
 ## Background
 
